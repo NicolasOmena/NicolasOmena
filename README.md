@@ -11,8 +11,7 @@
 
 <br clear="both">
 
-<img align="left" height="120" src="<div class="tenor-gif-embed" data-postid="20021537" data-share-method="host" data-aspect-ratio="1.80791" data-width="100%"><a href="https://tenor.com/view/meliodas-gif-20021537">Meliodas GIF</a>from <a href="https://tenor.com/search/meliodas-gifs">Meliodas GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>"  />
-
+<img align="left" height="120" src="meliodas.gif" alt="Meliodas GIF" data-aspect-ratio="1.80791" data-width="100%">
 ###
 
 <div align="center">

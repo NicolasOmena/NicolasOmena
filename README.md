@@ -12,6 +12,9 @@
 <br clear="both">
 
 <img align="left" height="120" src="meliodas.gif" alt="Meliodas GIF" data-aspect-ratio="1.80791" data-width="100%">
+
+<br>
+
 ###
 
 <div align="center">

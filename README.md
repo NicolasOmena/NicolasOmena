@@ -1,19 +1,55 @@
-<h3 align="left">-👋 Hello there, I’m Nicolas.. but you can call me Salocin 😎 (Jk, call me nick) - I’m an 18y old developer from Alagoas, Brazil. ( Rn living in Porto de Pedras )<br><br>- 💼 Portfolio: nicolasomena.com 😁<br><br>- 🚀 I’ve got a few ideas in the works check out my projects, maybe one of them can be useful to you! <br><br>- 😉 💼 Open to collaboration on projects that need a proactive and committed team member. <br><br>-📬 Feel free to reach out at sounicolasomena@gmail.com or contact@nicolasomena.com.<br><br>📕📚Books that shaped who I am:<br>- King Solomon's Secrets to Success : Taught me diligence, and I try to apply it in everything I do.<br><br>- The Bible : Helps me become a better person every day, guiding me to help others without harming or deceiving anyone.<br><br>- Rich Dad Poor Dad : Showed me the true value of helping others—because the more people you help, the more success follows.<br><br>⚡ Fun facts:<br>- I'm basically a hobbit just 1.59m tall. 🧙‍♂️<br>- And by the way, i am also already married and I keep a house with my wife.</h3>
+
+<br clear="both">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nicolasomena/NicolasOmena/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nicolasomena/NicolasOmena/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/nicolasomena/nicolasomena/output/github-snake.svg" />
+</picture>
+
+###
+
+# Hey i'm Nicolas Omena, nice to meet you!
+
+<br clear="both">
+
+<img align="left" height="125" src="meliodas.gif" alt="Meliodas GIF" data-aspect-ratio="1.80791" data-width="100%">
+
+<h3 align="left">
+
+ I’m an 18y old developer from Alagoas a state in Brazil.
+
+ 💼 Portfolio: [nicolasomena.com](https://nicolasomena.com/) 😁<br><br>
+
+<br>- 🤓👨‍💻 Well i'm currently studying [Computer Science at Uninter](https://www.uninter.com/graduacao/a-distancia/bacharelado-em-ciencia-da-computacao/), right now, i work as a freelancer, doing temporary jobs and developing websites for small businesses and inns. My goal's to be a [Full Stack developer](https://roadmap.sh/pdfs/roadmaps/full-stack.pdf) understanding every process of a Software Development 🧱 and a professional at JavaScript, Java, C# and Python!<br>
+
+<br>- I’m taking the [CS50x 🦆](https://pll.harvard.edu/course/cs50-introduction-computer-science) course and participating in a Java & Cloud bootcamp by DIO and Bradesco and also i have courses of [Git & GitHub](https://www.cursoemvideo.com/curso/curso-de-git-e-github/), [Java](https://www.cursoemvideo.com/curso/java-basico/) and [JavaScript](https://www.cursoemvideo.com/curso/javascript/) from [Curso em Vídeo](https://www.cursoemvideo.com/).<br>
+
+<br>- 🚀 I’ve got a few ideas in the works check out my [projects](https://github.com/NicolasOmena/NicolasOmena/projects), maybe one of them can be useful to you, or check out my [repositories](https://github.com/NicolasOmena?tab=repositories to see what i'm studiyng! <br>
+
+<br>- 😉 💼 Open to work and collaboration on projects that need a proactive and committed team member.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devnicolasomena)
+
+<br>- 📬 Feel free to reach out at [sounicolasomena@gmail.com](https://mail.google.com/mail/u/0/#sent?compose=VpCqJXKKMtJGxNcJTmNGbzKSrWzplrcmkCLBQjsnjglzbZsCvgBQrjlsZVRnljjFLstGpbG) or <br>[contact@nicolasomena.com](https://mail.google.com/mail/u/0/#sent?compose=VpCqJXKKMtJGxNcJTmNGbzKSrWzplrcmkCLBQjsnjglzbZsCvgBQrjlsZVRnljjFLstGpbG) <br>
+
+</h3>
+
+## 📕📚Books that shaped who I am:
+
+<h3 align="left">
+
+- King Solomon's Secrets to Success : Taught me diligence, and I try to apply it in everything I do.<br><br>
+- The Bible : Helps me become a better person every day, guiding me to help others without harming or deceiving anyone.<br><br>
+- Rich Dad Poor Dad : Showed me the true value of helping others because the more people you help, the more success follows.<br><br>
+
+</h3>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NicolasOmena&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NicolasOmena&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img align="left" height="120" src="meliodas.gif" alt="Meliodas GIF" data-aspect-ratio="1.80791" data-width="100%">
-
-<br>
 
 ###
 
@@ -63,11 +99,7 @@
 
 ###
 
-<br clear="both">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nicolasomena/NicolasOmena/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nicolasomena/NicolasOmena/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+<div align="center">
 
-###
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nicolasomena&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+
